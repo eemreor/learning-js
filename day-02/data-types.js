@@ -1,7 +1,8 @@
+"use strict";
 // Number 
-let N = 123; // integer
+let n = 123; // integer
 
-console.log(1 / 0 ); // Output: Infinity
+console.log(1 / 0); // Output: Infinity
 console.log(-1 / 0); // Output: -Infinity
 console.log("not a number" / 2); // Output: NaN
 
@@ -35,12 +36,11 @@ console.log(age2); // Output: undefined
 
 // Object and Symbol are also data types in JavaScript, but they are not covered in this snippet.
 
-typeof 1
-typeof 1n
-typeof"Hello"
-typeof true
-typeof null
-typeof undefined
-typeof Math
-typeof null
-typeof alert 
+console.log(typeof 1);
+console.log(typeof 1n);
+console.log(typeof "Hello");
+console.log(typeof true);
+console.log(typeof null);
+console.log(typeof undefined);
+console.log(typeof Math);
+console.log(typeof alert);

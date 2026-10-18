@@ -35,13 +35,13 @@ let name3 = "Emre",
     age3 = 20,
     city3 = "Istanbul";
 
-    console.log(name3); // Output: Emre
-    console.log(age3);  // Output: 20
-    console.log(city3); // Output: Istanbul
+console.log(name3); // Output: Emre
+console.log(age3);  // Output: 20
+console.log(city3); // Output: Istanbul
 
-    //The var keyword is almost the same as let. It also declares a variable but in a slightly different, “old-school” way.
+//The var keyword is almost the same as let. It also declares a variable but in a slightly different, “old-school” way.
 
-    /////////////////////////////////////
+/////////////////////////////////////
 
 let message3;
 
@@ -66,23 +66,23 @@ console.log(message4); // Output: Hello World!
 
 // Constants
 
-const myBirthday = "15.02.2006"; // a constant variable has been created and assigned a value
-console.log(myBirthday); // Output: 15.02.2006
+const myBirthday = "01.01.2000"; // a constant variable has been created and assigned a value
+console.log(myBirthday); // Output: 01.01.2000
 
 ////////////////////////////////////////
 
-const myBirthday2 = "15.02.2006"; // a constant variable has been created and assigned a value
+const myBirthday2 = "01.01.2000"; // a constant variable has been created and assigned a value
 
-// myBirthday2 = "20.11.2008; // an error will occur because the value of a constant variable cannot be changed
+// myBirthday2 = "02.01.2000"; // an error will occur because the value of a constant variable cannot be changed /TypeError: Assignment to constant variable
 
 //Tasks
 
 //1
-let name4="Ahmet";
+let name4 = "Ahmet";
 let admin;
-admin = name4; 
+admin = name4;
 console.log(admin); // Output: Ahmet
 
 //2
-let PlanetName = "Earth";
+let planetName = "Earth";
 let currentUserName = "Emre";
