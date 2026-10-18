@@ -1,0 +1,5 @@
+GÜN 1
+console.log nasıl kullanılır <script> ne "use strict"; nedir bunlara çalıştım ve örnekler yaptım 
+
+!!hata src ile dosya çekme yaparken dosyayı index.html yerine index.js olarak oluşturmuştum bu hata yüzünden kod çalışmadı 
+bir daha bu hatayı yapma. tüm alıştırmalar çalışıyor gün2de görüşürüz.
